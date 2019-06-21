@@ -1,0 +1,577 @@
+
+ http://www.webcss.kr/css-html-seo-profile.html
+
+===================================================================
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="canonical" href="http://webcss.kr/" />
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="웹퍼블리셔 김대희">
+<meta property="og:description" content="웹퍼블리셔 김대희 | webcss 포트폴리오 사이트">
+<meta property="og:image" content="http://webcss.kr/common/images/common/about.jpg">
+<meta property="og:url" content="http://webcss.kr/">
+
+<title>웹퍼블리셔 김대희</title>
+<meta name="keywords" content="웹퍼블리셔 김대희, 검색엔진 최적화, CSS, HTML, SEO, 웹표준, webcss">
+<meta name="description" content="CSS, HTML, SEO 포트폴리오 웹사이트 webcss.kr소개">
+<meta name="Author" content="webcss">
+<link rel="stylesheet" href="common/css/common.css" type="text/css" />
+<script type="text/javascript" src="common/js/html5.js"></script>
+<script type="text/javascript" src="common/js/visual_cont/jquery-latest.min.js"></script>
+<script type="text/javascript" src="common/js/visual_cont/js_02.js"></script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-19125154-3']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+<meta name="naver-site-verification" content="992ad77290e9cd983f5304a3af45d5ed93995365"/></head>
+
+<body>
+<div id="wrap">
+<header id="header">
+<h1><a href="index.html"><img src="common/images/common/webcss.gif" alt="webcss" /></a></h1>
+<ul>
+<li><a href="css-html-seo-profile.html">#About</a></li>
+<li><a href="css-html-seo-renewal.html">&#47;&#47;Portfolio</a></li>
+</ul>
+<div class="glo"><a href="/">Webcss</a> | <a href="sitemap.html">Sitemap</a></div>
+<p class="skip">상단메뉴 끝</p>
+<ul class="skip">
+<li><a href="/">HOME 바로가기</a></li>
+<li><a href="css-html-seo-profile.html">About 바로가기</a></li>
+<li><a href="css-html-seo-renewal.html">Portfolio 바로가기</a></li>
+<li><a href="sitemap.html">sitemap 바로가기</a></li>
+<li><a href="#">상위로 바로가기</a></li>
+</ul>
+<hr /></header>
+<section class="about">
+<ul>
+<li><span>이름 -</span> 김 대 희</li>
+<li><span>생년월일 -</span> 1984.02.16</li>
+<li><span>혈액형 -</span> AB</li>
+<li><span>휴대폰 -</span> 010.9226.7928</li>
+<li><span>이메일 -</span> emkdh@naver.com</li>
+<li><span>스킬 -</span> 웹표준, 웹접근성, 반응형웹, 검색엔진 최적화</li>
+<li><span>주소 -</span> 인천 부평구</li>
+<li><span>좋아하는 운동 -</span> 서핑, 스노우 보드, 웨이크 보드, 웨이크 스케이트, 스케이트 보드, 스킴보드, 등산..</li>
+<li><span>취미 -</span> 사진, 영화보기..</li>
+<li><span>직무 키워드 -</span> HTML, CSS, XML, SEO, Jquery, HTML5, CSS3, Mobile, Web, HTML코딩, 하드코딩, 포토샵, 드림위버, 자바스크립트, 제이쿼리, 웹표준·컨텐츠관리, 웹퍼블리셔, 크로스브라우징</li>
+</ul>
+<dl>
+	<dt>수상내역</dt>
+	<dd><i>2016년도 - </i><strong>&AWARD 2016 대상</strong><span>(사)한국디지털기업협회</span><b>윤선생 스마트랜드 - 교육 서비스 부문 대상</b></dd>
+	<dd><i>2015년도 - </i><strong>스마트앱어워드 코리아 2015 대상</strong><span>(사)한국인터넷전문가협회</span><b>무비프리 - 교육문화부문 통합대상</b></dd>
+	<dd><i>2015년도 - </i><strong>웹어워드 코리아 2015 최우수상</strong><span>(사)한국인터넷전문가협회</span><b>래미안 브랜드 사이트 - 건설분야 최우수상</b></dd>
+	<dd><i>2015년도 - </i><strong>WA인증마크</strong><span>(사)한국웹접근성인증평가원</span><b>SK하이닉스 - 2015 웹 접근성 품질인증서 획득</b></dd>
+	<dd><i>2014년도 - </i><strong>웹어워드 코리아 2014 최우수상</strong><span>(사)한국인터넷전문가협회</span><b>올 뉴 쏘렌토 ‘맨 온 더 로드’ - 자동차분야 최우수상</b></dd>
+	<dd><i>2013년도 - </i><strong>WA인증마크</strong><span>(사)한국장애인인권포럼</span><b>성분도복지관 - 2013 웹 접근성 우수사이트 획득</b></dd>
+	<dd><i>2012년도 - </i><strong>웹어워드 코리아 2012 대상</strong><span>(사)한국인터넷전문가협회</span><b>월드웹 (웹스미디어컴퍼니) - 매거진 분야 대상</b></dd>
+</dl>
+</section>
+<article class="webcss_info">
+<h1>HTML CSS 웹표준 최적화 하드코딩</h1>
+<h3><a href="css-html-seo-renewal.html" title="HTML로 홈페이지의 틀을 세웁니다.">구조(HTML)</a> 와 <a href="css-html-seo-renewal.html" title="CSS로 건물의 구석구석을 디자인 합니다.">표현(CSS)</a></h3>의 언어로 <h5><a href="css-html-seo-profile.html" title="WEBCSS건물의 주인입니다.">웹표준</a> 과 웹접근성</h5>을 지향하는 <a href="css-html-seo-profile.html" title="건물 인부입니다.">웹 퍼블리셔 김대희</a> 입니다.<br/>웹 퍼블리셔는 - <h4>HTML 과 CSS</h4>를 바탕으로 한 하드코딩으로 콘텐츠의 올바른 구조화, 페이지 의 제작 부담 감소, <h4>CSS</h4>로 시각표현을 통일하여 제어 함으로써 다양한 브라우징 환경에 대응하며 <h5>SEO : search engine optimization (<a href="/" title="건물 홍보 담당 입니다.">검색엔진 최적화</a></h5>) - 검색엔진의 크롤러(Crawler)가 각종 정보를 수집할수있도록 최적화된 사이트 를 제공합니다.<h6><a href="http://www.webcss.kr/">[ webcss ]</a></h6></article>
+<div id="visual_content">
+<section class="visual_cont">
+<div id="sliderWrapper">
+	<h5>&#47;&#47;Project</h5>
+	<div id="slider">
+		<article>
+		<img src="common/images/Portfolio/project/skhappiness_org.jpg" alt="title" title="#image-rel-01" width="250" height="150" />
+		<div id="image-rel-01" class="nivo-html-caption">
+			<h3 class="title"><a href="http://conference.skhappiness.org/" target="_blank" onfocus="this.blur()">행복나눔재단</a><strong>HTML, CSS, 반응형</strong></h3>
+			<div class="description">
+				<ul>
+				<li>- <strong>HTML</strong> [HyperText Markup Language]</li>
+				<li>- <strong>CSS</strong> [ Cascading Style Sheets ]</li>
+				<li>- <strong>반응형 웹</strong> [Responsive Web]</li>
+				</ul>
+			</div>
+		</div>
+		</article>
+
+		<article>
+		<img src="common/images/Portfolio/project/nol-ja_com.jpg" alt="title" title="#image-rel-02" width="250" height="150" />
+		<div id="image-rel-02" class="nivo-html-caption">
+			<h3 class="title"><a href="http://nol-ja.com/" target="_blank" onfocus="this.blur()">NOLJA</a><strong>HTML, CSS, JS, PHP,  접근성, 그누보드</strong></h3>
+			<div class="description">
+				<ul>
+				<li>- <strong>HTML</strong> [HyperText Markup Language]</li>
+				<li>- <strong>CSS</strong> [ Cascading Style Sheets ]</li>
+				<li>- <strong>JS</strong> [Java Script]</li>
+				<li>- <strong>웹접근성</strong> [Web Accessibility]</li>
+				</ul>
+			</div>
+		</div>
+		</article>
+
+		<article>
+		<img src="common/images/Portfolio/project/moviepre.co.kr.jpg" alt="title" title="#image-rel-03" width="250" height="150" />
+		<div id="image-rel-03" class="nivo-html-caption">
+			<h3 class="title"><a href="http://moviepre.co.kr/" target="_blank" onfocus="this.blur()">무비프리</a><strong>HTML, CSS, JS, 접근성<br/>스마트앱어워드 코리아 2015 대상</strong></h3>
+			<div class="description">
+				<ul>
+				<li>- <strong>HTML</strong> [HyperText Markup Language]</li>
+				<li>- <strong>CSS</strong> [ Cascading Style Sheets ]</li>
+				<li>- <strong>JS</strong> [Java Script]</li>
+				<li>- <strong>웹접근성</strong> [Web Accessibility]</li>
+				</ul>
+			</div>
+		</div>
+		</article>
+
+		<article>
+		<img src="common/images/Portfolio/project/gbc.jpg" alt="title" title="#image-rel-04" width="250" height="150" />
+		<div id="image-rel-04" class="nivo-html-caption">
+			<h3 class="title"><a href="http://webcss.kr" target="_blank" onfocus="this.blur()">Re:Design</a><strong>HTML, CSS, JS, 접근성, 다국어</strong></h3>
+			<div class="description">
+				<ul>
+				<li>- <strong>HTML</strong> [HyperText Markup Language]</li>
+				<li>- <strong>CSS</strong> [ Cascading Style Sheets ]</li>
+				<li>- <strong>JS</strong> [Java Script]</li>
+				<li>- <strong>웹접근성</strong> [Web Accessibility]</li>
+				</ul>
+			</div>
+		</div>
+		</article>
+
+		<article>
+		<img src="common/images/Portfolio/project/ssd.skhynix.com.jpg" alt="title" title="#image-rel-05" width="250" height="150" />
+		<div id="image-rel-05" class="nivo-html-caption">
+			<h3 class="title"><a href="http://ssd.skhynix.com" target="_blank" onfocus="this.blur()">SK hynix</a><strong>HTML, CSS, JS, 접근성, 다국어<br/>WA인증마크</strong></h3>
+			<div class="description">
+				<ul>
+				<li>- <strong>HTML</strong> [HyperText Markup Language]</li>
+				<li>- <strong>CSS</strong> [ Cascading Style Sheets ]</li>
+				<li>- <strong>JS</strong> [Java Script]</li>
+				<li>- <strong>웹접근성</strong> [Web Accessibility]</li>
+				</ul>
+			</div>
+		</div>
+		</article>
+
+		<article>
+		<img src="common/images/Portfolio/project/bundoreh_com.jpg" alt="title" title="#image-rel-06" width="250" height="150" />
+		<div id="image-rel-06" class="nivo-html-caption">
+			<h3 class="title"><a href="http://www.bundoreh.com/" target="_blank" onfocus="this.blur()">성분도복지관</a><strong>HTML, CSS, JS, 접근성</strong></h3>
+			<div class="description">
+				<ul>
+				<li>- <strong>HTML</strong> [HyperText Markup Language]</li>
+				<li>- <strong>CSS</strong> [ Cascading Style Sheets ]</li>
+				<li>- <strong>JS</strong> [Java Script]</li>
+				<li>- <strong>웹접근성</strong> [Web Accessibility]</li>
+				</ul>
+			</div>
+		</div>
+		</article>
+
+		<article>
+		<img src="common/images/Portfolio/project/worldweb.jpg" alt="title" title="#image-rel-07" width="250" height="150" />
+		<div id="image-rel-07" class="nivo-html-caption">
+			<h3 class="title"><a href="http://www.worldweb.co.kr/" target="_blank" onfocus="this.blur()">월드웹</a><strong>HTML, CSS, JS</strong></h3>
+			<div class="description">
+				<ul>
+				<li>- <strong>HTML</strong> [HyperText Markup Language]</li>
+				<li>- <strong>CSS</strong> [ Cascading Style Sheets ]</li>
+				<li>- <strong>JS</strong> [Java Script]</li>
+				</ul>
+			</div>
+		</div>
+		</article>
+
+		<article>
+		<img src="common/images/Portfolio/project/unesco.jpg" alt="title" title="#image-rel-08" width="250" height="150" />
+		<div id="image-rel-08" class="nivo-html-caption">
+			<h3 class="title"><a href="http://www.unesco.or.kr/" target="_blank" onfocus="this.blur()">유네스코한국위원회</a><strong>HTML, CSS</strong></h3>
+			<div class="description">
+				<ul>
+				<li>- <strong>HTML</strong> [HyperText Markup Language]</li>
+				<li>- <strong>CSS</strong> [ Cascading Style Sheets ]</li>
+				</ul>
+			</div>
+		</div>
+		</article>
+
+		<article>
+		<img src="common/images/Portfolio/project/ABC_Mart.jpg" alt="test" title="#image-rel-09" />
+		<div id="image-rel-09" class="nivo-html-caption">
+			<h3 class="title"><a href="http://www.abcmart.co.kr/" target="_blank" onfocus="this.blur()">ABC-MART</a><strong>HTML, CSS, JS</strong></h3>
+			<div class="description">
+				<ul>
+				<li>- <strong>HTML</strong> [HyperText Markup Language]</li>
+				<li>- <strong>CSS</strong> [ Cascading Style Sheets ]</li>
+				<li>- <strong>JS</strong> [Java Script]</li>
+				</ul>
+			</div>
+		</div>
+		</article>
+
+		<article>
+		<img src="common/images/Portfolio/project/ec21.jpg" alt="test" title="#image-rel-10" />
+		<div id="image-rel-10" class="nivo-html-caption">
+			<h3 class="title"><a href="http://vip.ec21.com/" target="_blank" onfocus="this.blur()">EC21.com 프리미엄 서비스</a><strong>HTML, CSS</strong></h3>
+			<div class="description">
+				<ul>
+				<li>- <strong>HTML</strong> [HyperText Markup Language]</li>
+				<li>- <strong>CSS</strong> [ Cascading Style Sheets ]</li>
+				</ul>
+			</div>
+		</div>
+		</article>
+
+		<article>
+		<img src="common/images/Portfolio/project/arariogallery.jpg" alt="test" title="#image-rel-11" />
+		<div id="image-rel-11" class="nivo-html-caption">
+			<h3 class="title"><a href="http://www.yawoori.com/" target="_blank" onfocus="this.blur()">ARARIO</a><strong>HTML, CSS, JS</strong></h3>
+			<div class="description">
+				<ul>
+				<li>- <strong>HTML</strong> [HyperText Markup Language]</li>
+				<li>- <strong>CSS</strong> [ Cascading Style Sheets ]</li>
+				<li>- <strong>JS</strong> [Java Script]</li>
+				</ul>
+			</div>
+		</div>
+		</article>
+	</div><!--slider-->
+</div><!--sliderWrapper-->
+</section></div><!--visual_content-->
+<section class="css-html-seo-text">
+<div class="text_content">
+	<h1>HTML<br/> [HyperText Markup Language]</h1>
+	<p><strong>HTML</strong>은 전자 문서의 서식을 정의하기 위해 만들어졌으며, 국제표준 SGML의 부분 집합으로 정의되었다. <strong>HTML</strong>은 SGML에서 특히 하이퍼텍스트를 강조하여 만들어진 언어이며, ASCII 문자로 구성된 일반적인 텍스트로 구성되었다. 이 언어는 별도 컴파일러가 필요치 않으며, 웹 브라우저에서 해석이 가능한 사용하기 쉬운 언어로 각광을 받고 있다.<a href="http://www.webcss.kr/">[ webcss ]</a></p>
+</div><!--text_content-->
+<div class="text_content">
+	<h1>CSS<br/> [ Cascading Style Sheets ]</h1>
+	<p>웹 문서의 전반적인 스타일을 미리 저장해 둔 스타일시트이다. 문서 전체의 일관성을 유지할 수 있고, 세세한 스타일 지정의 필요를 줄여 이용에 편리성을 더 했다.<br/> 기존의 웹 언어인 <strong>HTML</strong>은 웹 문서를 다양하게 설계하고 수시로 변경하는데 많은 제약이 따랐다. 이를 보완하기 위해 만들어진 것이 스타일 시트이고 스타일 시트의 표준안이 바로 <strong>CSS</strong>이다. 간단히 스타일시트라고도 한다. <a href="http://www.webcss.kr/"> [ webcss ]</a></p>
+</div><!--text_content-->
+<div class="text_content">
+	<h1>검색 엔진 최적화<br/> [ SEO, search engine optimization]</h1>
+	<p>검색 엔진에서 검색했을 때 상위에 나타나도록 관리하는 것. 검색 결과 상위에 링크되는 것이 유리하다. 검색 엔진 최적화<strong> [ SEO, search engine optimization]</strong> 방법으로는 자신의 사이트를 대표할 수 있는 핵심적인 키워드를 두세 개 선택해 이를 사이트 등록에 사용하고, 이를 배너 교환이나 여러 사이트에서 추천 사이트로 등록할 경우 자연히 이용자가 많아지고, 이용자가 늘어나면 사이트의 순위도 올라가게 된다. <a href="http://www.webcss.kr/"> [ webcss ]</a></p>
+</div><!--text_content--></section><!-- css-html-seo-text -->
+<p class="skip">컨텐츠 끝</p>
+<ul class="skip">
+<li><a href="/">HOME 바로가기</a></li>
+<li><a href="css-html-seo-profile.html">About 바로가기</a></li>
+<li><a href="css-html-seo-renewal.html">Portfolio 바로가기</a></li>
+<li><a href="sitemap.html">sitemap 바로가기</a></li>
+<li><a href="#">상위로 바로가기</a></li>
+</ul>
+<hr />
+<footer>
+<h4>&#47;&#47;webcss</h4>
+<div class="footer_right">
+<address>HP - 010-9226-7928 | emkdh@nate.com | emkdh@naver.com | <a href="http://webseo.kr/" target="_blank">webseo.kr</a> | <a href="http://webcss.kr/" target="_blank">webcss.kr</a></address>
+<div class="copy">Copyright&copy;2016 webcss. All Rights Reserved.</div>
+</div><!--footer_right-->
+<div class="footer_link">
+<a href="css-html-seo-renewal.html">HTML</a> | 
+<a href="css-html-seo-renewal.html">CSS</a> | 
+<a href="css-html-seo-renewal.html">SEO</a> | 
+<a href="css-html-seo-profile.html">프로필</a> | 
+<a href="css-html-seo-renewal.html">포트폴리오</a> | 
+<a href="css-html-seo-renewal.html">리뉴얼</a> | 
+<a href="css-html-seo-partrenewal.html">부분 리뉴얼</a> | 
+<a href="css-html-seo-general.html">일반 리뉴얼</a> | 
+<a href="css-html-seo-responsive-web.html">반응형 웹</a> | 
+<a href="css-html-seo-HTML5.html">HTML5</a> | 
+<a href="css-html-seo-accessibility.html">웹접근성</a> | 
+<a href="css-html-seo-renewal.html">검색엔진 최적화</a> | 
+<a href="css-html-seo-profile.html">웹표준</a> | 
+<a href="sitemap.html">Sitemap</a> | 
+<a href="sitemap.xml">XML</a> | 
+<a href="/">webcss</a>
+</div><!--footer_link-->
+<p class="skip">사이트정보 끝</p>
+<ul class="skip">
+<li><a href="index.html">HOME 바로가기</a></li>
+<li><a href="css-html-seo-profile.html">About 바로가기</a></li>
+<li><a href="css-html-seo-renewal.html">Portfolio 바로가기</a></li>
+<li><a href="sitemap.html">sitemap 바로가기</a></li>
+<li><a href="#">상위로 바로가기</a></li>
+</ul>
+<hr /></footer>
+</div><!--wrap-->
+<script type="text/javascript" src="http://static.analytics.openapi.naver.com/js/wcslog.js"></script>
+<script type="text/javascript">
+   if(!wcs_add) var wcs_add = {};
+   wcs_add["wa"] = "a1f288824de";
+   wcs_do();
+</script>
+</body>
+</html>
+   
+=============================================================
+
+   rel="stylesheet" href="common/css/common.css" type="text/css"
+
+@charset "utf-8";
+@font-face{font-family:'Nanum Barun Gothic';font-style:normal;font-weight:200;src: local('Nanum Barun Gothic UltraLight'), local('Nanum Barun Gothic-UltraLight'), local('NanumBarunGothic UltraLight');src: url(../font/NanumBarunGothicUltraLight.eot);src: url(../font/NanumBarunGothicUltraLight.eot?#iefix) format('embedded-opentype'),url(../font/NanumBarunGothicUltraLight.woff) format('woff'),url(../font/NanumBarunGothicUltraLight.ttf) format('truetype');}
+@font-face{font-family:'Nanum Barun Gothic';font-style:normal;font-weight:300;src: local('Nanum Barun Gothic Light'), local('Nanum Barun Gothic-Light'), local('NanumBarunGothic Light');src: url(../font/NanumBarunGothicLight.eot);src: url(../font/NanumBarunGothicLight.eot?#iefix) format('embedded-opentype'),url(../font/NanumBarunGothicLight.woff) format('woff'),url(../font/NanumBarunGothicLight.ttf) format('truetype');}
+@font-face{font-family:'Nanum Barun Gothic';font-style:normal;font-weight:400;src: local('Nanum Barun Gothic Regular'), local('Nanum Barun Gothic-Regular'), local('NanumBarunGothic Regular');src: url(../font/NanumBarunGothic.eot);src: url(../font/NanumBarunGothic.eot?#iefix) format('embedded-opentype'),url(../font/NanumBarunGothic.woff) format('woff'),url(../font/NanumBarunGothic.ttf) format('truetype');}
+@font-face{font-family:'Nanum Barun Gothic';font-style:normal;font-weight:700;src: local('Nanum Barun Gothic Bold'), local('Nanum Barun Gothic-Bold'), local('NanumBarunGothic Bold');src: url(../font/NanumBarunGothicBold.eot);src: url(../font/NanumBarunGothicBold.eot?#iefix) format('embedded-opentype'),url(../font/NanumBarunGothicBold.woff) format('woff'),url(../font/NanumBarunGothicBold.ttf) format('truetype');}
+
+/*reset*/
+ #accessibility, .skip, hr, legend, caption{position:absolute;width:0;height:0;font-size:0;line-height:0;overflow:hidden;visibility:hidden;text-indent:-1000em}
+/* base */
+html{overflow-y:scroll}
+body{font-size:13px;font-family:Tahoma, 'Nanum Barun Gothic', Dotum;font-weight:400;color:#333;background:#f2f1ed}
+body, div, h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dt, dd, p, form, fieldset, input, table, tr, th, td{margin:0;padding:0}
+h1, h2, h3, h4, h5, h6{font-weight:normal;font-size:100%}
+ul, ol, li{list-style:none}
+fieldset, img{border:none}
+input, select, textarea{vertical-align:middle;font-size:1em;color:#333}
+select {font-size:11px;font-family:Tahoma, 'Nanum Barun Gothic', Dotum}
+article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary{display:block}
+/* a-style */
+a{color:#3c3c3c;text-decoration:none}
+a:hover, a:active{color:#3c3c3c;text-decoration:underline}
+/*a:focus{outline-style:dashed;outline-width:1px}*/
+/*common*/
+.reset{clear:both !important;height:0px !important;line-height:0px !important;padding:0 !important;margin:0 !important}
+.input{height:16px;border:none;background:none;color:#888;font-family:Tahoma, 'Nanum Barun Gothic', Dotum;font-size:12px;padding:2px 0 0 4px}
+/*btn*/
+.btn_r{text-align:right}
+.btn_l{text-align:left}
+.btn_c{text-align:center}
+/*paginate*/
+.paginate{height:55px;text-align:center;padding:30px 0 50px;clear:both}
+.paginate img{vertical-align:middle}
+.paginate a, .paginate strong{display:inline-block;padding:0 7px;margin:0 -3px;vertical-align:0;color:#ccc;font-size:40px;font-weight:normal}
+.paginate a:hover, .paginate strong{color:#444}
+.paginate a.pre, .paginate a.next{height:9px;margin:0;border:none}
+.paginate a.pre{padding:0 5px 0 0}
+.paginate a.next{padding:0 0 0 5px}
+/*common*/
+/*header*/
+#header{width:100%;height:120px;overflow:hidden;position:relative}
+#header h1{float:left;padding-top:20px}
+#header ul{float:left;padding-top:54px}
+#header ul li{float:left;padding-left:100px}
+#header ul li a{font-size:20px;line-height:20px;display:block}
+#header ul li a:hover{padding-top:2px;text-decoration:none}
+#header .glo{position:absolute;top:15px;right:0;font-size:11px}
+#header .glo a{font-size:11px}
+/*text*/
+.webcss_info{line-height:20px;clear:both;padding:20px 0 30px}
+.webcss_info h1{font-size:15px;font-weight:bold;padding-bottom:4px;margin-bottom:6px;border-bottom:1px solid #ccc}
+.webcss_info h3{display:inline}
+.webcss_info h4{display:inline}
+.webcss_info h5{display:inline}
+.webcss_info h6{text-align:right}
+.css-html-seo-text{line-height:20px;clear:both;overflow:hidden;margin-bottom:70px}
+.css-html-seo-text h1{font-size:15px;font-weight:bold;padding-bottom:10px}
+.text_content{width:300px;float:left;padding-left:22px}
+/*footer*/
+footer{width:100%;height:200px;clear:both;border-top:4px solid #262626}
+footer h4{font-size:30px;font-weight:bold;float:left;padding-top:20px}
+footer .footer_right{float:right;text-align:right;padding-top:40px;line-height:19px}
+footer address{font-style:normal}
+footer .footer_link{clear:both;text-align:center;padding-top:30px}
+/*main*/
+#wrap_m{width:980px;margin:0 auto}
+#contents_m{clear:both}
+#contents_m .img_content ul{width:100%;overflow:hidden}
+#contents_m .img_content ul li{width:320px;float:left;padding:0 0 10px 10px}
+#contents_m .img_content ul li img{width:100%;vertical-align:top}
+#contents_m .img_content ul li.li_01{padding-left:0}
+#contents_m .img_content ul li.li_04{clear:both;padding-left:0}
+#contents_m .img_content ul li.li_07{clear:both;padding-left:0}
+#contents_m .img_content h2{padding:12px 0;text-align:center;font-weight:bold}
+/*visual_banner*/
+#visual_content{width:100%;height:330px;position:relative;z-index:9}
+#visual_content .visual_cont{width:100%;height:330px;margin:0 auto;overflow:hidden}
+#visual_content .nivo-slice{height:215px;display:block;position:absolute;top:0;z-index:5;background-position:112px 9px !important}
+#visual_content .nivo-box{display:block;position:absolute;z-index:5}
+#visual_content .nivo-caption{width:335px;height:257px;position:absolute;right:190px;top:-20px;text-align:justify;z-index:9}
+#visual_content .nivo-caption div{position:relative}
+#visual_content .nivo-caption .title{position:absolute;left:0;text-align:left;top:50px;width:360px}
+#visual_content .nivo-caption .title, .nivo-caption a{font-size:18px;font-weight:normal}
+#visual_content .nivo-caption .title a{display:block;margin-bottom:20px}
+#visual_content .nivo-caption .title strong{display:block;margin-left:20px}
+#visual_content .nivo-caption .description{position:absolute;top:150px;left:0;z-index:99999}
+#visual_content .nivo-caption .description li{padding-top:5px}
+#visual_content .nivo-caption a{width:100%;height:100%}
+#visual_content .nivo-html-caption{display:none}
+#visual_content .nivo-directionNav{width:100%;position:relative;top:0;z-index:8}
+#visual_content .nivo-directionNav a{width:74px;height:246px;position:absolute;top:-40px;z-index:6;cursor:pointer;text-indent:-1000em}
+#visual_content a.nivo-prevNav{right:100px;background:url(../images/common/btn_next.gif) no-repeat left top}
+#visual_content a.nivo-nextNav{width:66px;height:217px;left:0px;top:0;background:url(/common/images/common/btn_pre.gif) no-repeat left top}
+#visual_content a.nivo-prevNav:hover{background:url(../images/common/btn_next_over.gif) no-repeat left top}
+#visual_content a.nivo-nextNav:hover{background:url(../images/common/btn_pre_over.gif) no-repeat left top}
+#visual_content .nivo-controlNav{position:absolute;bottom:0;right:10px;display:none}
+#visual_content .nivo-controlNav a{width:23px;height:23px;text-indent:-9999px;margin-right:3px;float:left;position:relative;z-index:7;cursor:pointer}
+#visual_content #sliderWrapper{width:100%;height:260px;padding-top:50px;margin:0 auto;position:relative}
+#visual_content #sliderWrapper h5{position:absolute;left:0;top:15px;font-size:32px;font-weight:bold;z-index:99;line-height:32px}
+#visual_content #slider{width:100% !important;height:215px;background:url(../js/lightbox/images/loading.gif) no-repeat 50% 50%;position:relative;z-index:2}
+#visual_content #slider img{height:260px;position:absolute;top:0px;left:0px;display:none}
+#visual_content #slider a{border:0;display:block}
+/*sub*/
+#wrap{width:980px;margin:0 auto}
+/*about*/
+.about{overflow:hidden;padding-bottom:50px;background:url(../images/common/about.jpg) no-repeat right top}
+.about ul{padding:50px 0 0 30px}
+.about li{padding-top:15px;line-height:25px}
+.about li span{font-weight:bold}
+.about dl{padding:70px 0 0 30px}
+.about dl dt{padding-bottom:10px;font-weight:bold;font-size:15px}
+.about dl dd{float:left;padding-bottom:10px}
+.about dl dd i{float:left;font-style:normal}
+.about dl dd strong{width:225px;float:left;padding-left:10px}
+.about dl dd span{width:180px;float:left}
+.about dl dd b{float:left}
+/*portfolio*/
+.Portfolio{padding-bottom:50px}
+.Portfolio .menu_2dep{width:100%;position:relative;margin-bottom:16px;padding-bottom:60px;border-bottom:1px solid #ccc}
+.Portfolio ul{width:100%;overflow:hidden}
+.Portfolio ul li{float:left;padding:0 0 10px 29px}
+.Portfolio ul li.li_01{padding-left:0}
+.Portfolio ul li a{display:block;font-weight:bold;font-size:15px;color:#444}
+.Portfolio ul li a:hover{padding-top:2px;color:#444;text-decoration:none}
+.Portfolio .route{position:absolute;right:0;bottom:20px}
+.Portfolio .route h1{display:inline;font-weight:bold}
+.Portfolio dl{width:180px;height:135px;float:left;padding:3px;opacity:0.5;padding-bottom:20px}
+.Portfolio dl:hover{opacity:1}
+.Portfolio dt{padding-bottom:5px;text-align:center}
+.Portfolio dt a{font-size:13px;font-weight:bold}
+.Portfolio dd img{width:180px;height:110px}
+
+.Portfolio.develop dl{height:150px;}
+.Portfolio.develop dt strong{display:block;padding-top:5px;font-size:12px;font-weight:normal;}
+
+.Portfolio.mobile dd {text-align:center;}
+.Portfolio.mobile dd img{width:auto;}
+/*sitemap*/
+.sitemap{padding-bottom:80px}
+.sitemap dl{float:left;width:33%;padding-top:50px}
+.sitemap dl.dl_en{width:100%}
+.sitemap dt{font-weight:bold;font-size:18px;padding:0 0 20px 50px}
+.sitemap dd{font-size:13px;padding:8px 0 8px 60px}
+.sitemap dl.dl_en dd{width:150px;height:30px;float:left;padding:0;text-align:center}
+/*error_404*/
+.error_404{font-size:30px;font-weight:bold;text-align:center;padding:50px 0}
+.error_404 a{text-decoration:none}
+/*guest_book*/
+.guest_book_cont{width:930px;margin:0 auto;padding-bottom:70px}
+
+
+@media all and (min-width:980px) {
+	/*about*/
+	.about ul{padding-right:70px}
+}
+
+@media all and (max-width:980px) {
+	#wrap_m{width:auto;padding:0 50px}
+	#contents_m .img_content ul li{width:32%;float:left;padding:0 0 2% 2%}
+	#contents_m .img_content ul li h2{font-size:1.5vw}
+	#visual_content .nivo-caption{width:30vw;left:55%}
+	#visual_content .nivo-caption .title{width:auto;top:30px;font-size:14px}
+	#visual_content .nivo-caption .title strong{margin-left:0;font-size:14px}
+	#visual_content a.nivo-prevNav{right:0}
+	#wrap{width:auto;padding:0 50px}
+	.css-html-seo-text{height:auto}
+	.text_content{width:100%;padding:0 0 30px 0}
+	footer .footer_right{padding-top:20px}
+	/*about*/
+	.about ul{padding-right:370px}
+}
+
+@media all and (max-width:890px) {
+	#visual_content{height:380px}
+	#visual_content .visual_cont{height:100%}
+	#visual_content .nivo-caption{width:85%;left:45%;background:url(../images/main/bg_project.png) no-repeat left 20px}
+	#visual_content .nivo-caption .title{padding-left:30px}
+	#visual_content .nivo-caption .description{padding-left:30px}
+	#visual_content .nivo-directionNav{z-index:10}
+	/*about*/
+	.about li{padding-top:15px;line-height:25px}
+	.about dl dd{padding-bottom:20px;line-height:25px}
+	.about dl dd span{clear:both;padding-left:70px}
+	/*portfolio*/
+	.Portfolio ul li.li_04{clear:both;padding-left:0}
+	.Portfolio ul li.li_07{clear:both;padding-left:0}
+}
+
+@media all and (max-width:850px) {
+	/*portfolio*/
+	.Portfolio dl{width:23%;padding:1% 1% 20px}
+	.Portfolio dd img{width:100%}
+	.cboxPhoto{width:600px}
+	/*sitemap*/
+	.sitemap dl.dl_en dd{width:25%}
+}
+
+@media all and (max-width:765px) {
+	#visual_content .nivo-caption{width:85%;left:35%}
+	/*about*/
+	.about{background-size:285px auto}
+	.about ul{padding-right:0}
+	/*portfolio*/
+	.Portfolio dl{width:31%}
+}
+
+@media all and (max-width:720px) {
+	#header ul{float:right}
+	#header ul li{padding-left:50px}
+	#header ul li:first-child{padding-left:0}
+	/*about*/
+	.about dl dd b{clear:both;padding-left:70px}
+	/*portfolio*/
+	.cboxPhoto{width:500px}
+}
+
+@media all and (max-width:640px) {
+	#wrap{padding:0 20px}
+	#wrap_m{width:auto;padding:0 20px}
+	#contents_m .img_content ul li{width:100%;float:left;padding:0 0 4% 0}
+	#contents_m .img_content ul li h2{font-size:4vw}
+	#header{height:145px}
+	#header ul{padding-top:55px}
+	.css-html-seo-text{margin-bottom:40px}
+	#visual_content{display:none}
+	footer{height:auto;padding-bottom:20px}
+	footer .footer_link{line-height:25px}
+	/*portfolio*/
+	.Portfolio .menu_2dep{padding-bottom:10px}
+	.Portfolio .route{display:none}
+	.cboxPhoto{width:450px}
+}
+
+@media all and (max-width:530px) {
+	#header .glo{display:none}
+	#header ul{padding-top:25px;clear:both}
+	/*about*/
+	.about{background-size:100% auto;padding-top:80%}
+	.about ul{padding-left:0}
+	.about dl{padding-left:0}
+	.about dl dd strong{clear:both;padding-left:10px}
+	.about dl dd span{padding-left:10px}
+	.about dl dd b{clear:both;padding-left:10px}
+	/*portfolio*/
+	.Portfolio .menu_2dep{height:auto}
+	.Portfolio ul{height:auto;line-height:25px}
+	.Portfolio ul li{padding-left:15px;text-align:center}
+	.Portfolio ul li:last-child{padding-right:0}
+	.Portfolio ul li a{font-size:13px}
+	.Portfolio dl{width:48%}
+	.cboxPhoto{width:300px}
+	#cboxContent #cboxClose{top:-160px}
+	/*sitemap*/
+	.sitemap dl{width:33%}
+	.sitemap dl dt{padding-left:0}
+	.sitemap dl dd{padding-left:0}
+	.sitemap dl.dl_en dd{width:33%;text-align:left}
+	/*error_404*/
+	.error_404{font-size:18px;line-height:30px}
+}
+   

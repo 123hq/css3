@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title> 유병훈 프로필 & 홈페이지 소개 </title>
+</head>
+
+<body>
+<div id="P10">
+<header id="header">
+<h1> <a href="YBH_abc.html"> <img src="C:\Users\unpl\Desktop\2019_0617_HTML연습01\img_Pf/a01.png" alt="유병훈 로고" /> </a> </h1>
+<ul>
+<li> <a href="#"> ◆ About </a> </li>
+<li> <a href="#"> ■ Portfolio </a> </li>
+</ul> 
+
+<div class="S10"> <a href="/"> 유Y병B훈H </a> | <a href="#사이트맵"> Sitemap </a> </div>
+<p class="skip0"> 상단메뉴 끝 </p>
+
+<ul class="skip0"> 
+<li> <a href="/"> HOME 바로가기 </a> </li>
+<li> <a href="#"> About 바로가기 </a> </li>
+<li> <a href="#"> Portfolio 바로가기 </a> </li>
+<li> <a href="#"> Sitemap 바로가기 </a> </li>
+<li> <a href="#"> 상위로 바로가기 </a> </li>
+</ul>
+
+<hr /> </header>
+
+<section class="about0">
+<ul>
+<li> <span> 이름 = </span> 유병훈 </li>
+<li> <span> 생년월일 = </span> 1972.06.01. </li>
+<li> <span> 혈액형 = </span> B+ </li>
+<li> <span> 휴대폰 = </span> 010-8765-1566 </li>
+<li> <span> Email = </span> 123hq@naver.com </li>
+<li> <span> Skill = </span> 웹접근성 , 웹표준 , 반응형웹 , 개인정보보호진단 , 홈페이지 개선 및 보수 컨설팅 , <br /> 시스템 통합 솔루션 컨설팅 , 소방시설 점검 및 보수 컨설팅 , 특고압 전기설비 진단 컨설팅 , ... </li>
+<li> <span> 주소 = </span> 서울특별시 구로구 구로동 디지털로 31길 38-9  에이스테크노타워1차 901호 </li>
+<li> <span> 좋아하는 운동 = </span> 마라톤 , 수영 , 등산 , 축구 , 서핑 , 스키 , 스노 보드 , ... </li>
+<li> <span> 취미 = </span> 영화 보기 , 그림 감상 , 음악 감상 , 헬스 , 숨쉬기 , ... </li>
+<li> <span> 직무 Keyword = </span> HTML , CSS , XML , jQuery , Javascript , C , C++ , Java , 드림 위버 , 포토샵 , 오토잇 , 오토캐드 , ... </li>
+</ul>
+
+<dl>
+<dt> ★ 교육 및 수상 내역 ★ </dt>
+<dd> (주)유앤피플 사내 홈페이지 경진대회 '모방적 창의'상 수상 (2019) </dd>
+<dd> KEAD 일산 직업능력개발원 수료 및 '특화반 학업 우수&취업 성공'상 수상 (2019) </dd>
+<dd> 하나금융그룹 파워 온 임팩트 맞춤 훈련 수료 및 'IT반 훈련 우수'상 수상 (2018) </dd>
+<dd> SK커뮤니케이션즈 Nate_on '접근성 테스트' 대표 검수 (2018) </dd> 
+<dd> 삼성전자 신제품 스마트폰 '접근성 사용 테스트' 대표 검수 (2018) </dd>
+</dl>
+</section>
+
+<article class="web_info">
+<h1> HTML CSS 웹표준 최적화 하드코딩 </h1>
+<h3> <a href="#" title="HTML로 홈페이지의 틀을 세웁니다."> 구조 (html) </a> 와 <a href="#" title="CSS로 건물의 구석구석을 디자인합니다."> 표현 (CSS) </a> </h3> 의 언어로 <h5> <a href="#" title="유Y병B훈H 건물의 주인입니다."> 웹표준 </a> 과 <a href="#" > 웹접근성 </a> </h5> 을 지향하는 <a href="#" title="건물 관리자입니다."> 웹 퍼블리셔 유병훈 (정보처리 산업기사) </a> 입니다. <br />
+
+ 
+
+
+</article>
+
+</div>
+
+</body>
+</html>
